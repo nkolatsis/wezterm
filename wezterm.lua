@@ -10,6 +10,8 @@ config.font_size = 14
 config.line_height = 1.1
 
 -- Cursor
+--
+-- Not needed due to color_scheme
 --config.colors = {
 -- cursor_bg = 'white',
 -- cursor_border = 'white',
